@@ -21,14 +21,16 @@ this is the first edition, it will include more than the past week.
 ### Bidding Wars 
 *The historical crypto art bidding wars!*
 
-Below is ranked the top bidding wars of all time!
-* Crypto kitties (Ethereal)
-* Homer Pepe (Rare AF)
-* First Supper (Async.art)
-* Colie's First Supper Layer (Async.art)
-* Xcopy's  (Async.art)
-* ETHgirl (Superrare)
-* Coldie's Andreas Antonopoulis (Superare)
+Ranked below are the greatest bidding wars and highest sold Crypto Art!
+(See article at the bottom for details on each sale)
+* [Celestial Cyber Dimension - Guilherme Twardowski](https://www.nytimes.com/2018/05/18/style/cryptokitty-auction.html) the "cryptokitty" sold for $140k USD (Ethereal) - Event
+* [Homer Pepe](https://mashable.com/2018/01/25/homer-pepe-rare-digital-art-auction/) sold for $40k USD (Rare AF) - Event
+* [First Supper - 13 Artist's Master](https://twitter.com/AsyncArt/status/1233482051548065793) sold for $25k USD (Async.art) - Online 
+* [First Supper - Coldie's Layer](https://twitter.com/web3brett/status/1234240533045956613) sold for $17.5K USD (Async.art) - Online
+* [CryptoPunk 7804](https://www.larvalabs.com/cryptopunks/details/7804) sold for $15k USD (CryptoPunks)- Online 
+* [Banksta - Xcopy's Master](https://async.art/art/master/0x6c424c25e9f1fff9642cb5b7750b0db7312c29ad-28) sold for $15k USD (Async.art) - Online
+* [EthGirl- Trevor Jones](https://news.bitstarz.com/ethgirl-nft-artwork-sells-for-record-72-1-eth) sold for $10k USD (Superrare) - Online
+* [DystoPunk 3D - Coldie x Xcopy]() sold for $7k (Superare)
 
 ### Artsy Artists
 *The crypto artists we know and love.. the people that make it
@@ -64,18 +66,22 @@ stand up.*
 
 Jonathan Perkins
 
+-----------------------------------------------------------
 
 ## Crypto Art Bidding Wars Will Change Art History 
 
 You might be familiar with the art auctions like the famous banksy
-auctioned at Sotheby’s that had known art collectors and brokers in
-one room, but have you heard about the CryptoArt bidding wars? These
-bidding wars are open to anyone, happen online, and with all sorts 
-of auction formats. “Whales” or big spenders have elevated the value 
-of  the crypto art industry taking crypto artist from last year selling 
-a 1 of 1 art piece for $100, to now selling new pieces for $10,000+ 
-and some being listed on secondary markets for $50k - $150 k. The 
-platforms make the piece of art a token on the blockchain that can be sold over any platform and the royalties for the artist and the platform are baked into the token for any secondary sales.
+auctioned at Sotheby’s that had known art collectors and brokers 
+in one room, but have you heard about the CryptoArt bidding wars? 
+These bidding wars are open to anyone, happen online, and with all 
+sorts of auction formats. “Whales” or big spenders have elevated 
+the value of  the crypto art industry taking crypto artist from 
+last year selling a 1 of 1 art piece for $100, to now selling new 
+pieces for $10,000+ and some being listed on secondary markets for 
+$50k - $150 k. The platforms make the piece of art a token on the 
+blockchain that can be sold over any platform and the royalties for 
+the artist and the platform are baked into the token for any 
+secondary sales.
 
 ##### History of legendary bidding wars
 * A Cryptokitty sold for ($140,000)[https://www.nytimes.com/2018/05/18/style/cryptokitty-auction.html] on May, 2018 while in person was won with an online bid. Mike Novogratz, founder of hedge fund Galaxy Digital, participated and was quoted saying, “In 10 years, I think it’s going to be worth millions.”
