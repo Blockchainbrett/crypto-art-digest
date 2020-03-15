@@ -15,4 +15,4 @@ Bringing you weekly highlights on the exploding crypto art space!
 * [About](/about) the publisher
 
 
-![CryptoArtDigestLogo](/img/CryptoArtDigestLogo.png)
+![CryptoArtDigestLogo](/CryptoArtDigestLogo.png)
