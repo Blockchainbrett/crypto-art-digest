@@ -11,5 +11,5 @@ eleventyNavigation:
 
 Bringing you weekly highlights on the exploding crypto art space!
 
-* [Blog](/blog) to see all the weekly editions
+* [Newsletters](/newsletters) to see all the weekly editions
 * [About](/about) the publisher
