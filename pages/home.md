@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 0
 ---
 
-![Logo](/media/CryptoArtDigestLogo.png)
+![Logo](https://cryptoartdigest.com/static/media/CryptoArtDigestLogo.png)
 
 Bringing you weekly highlights on the 
 exploding crypto art space!
