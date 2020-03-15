@@ -15,5 +15,7 @@ all the weekly editions
 * [About](/about) the publisher
 
 <a class="twitter-follow-button"
-  href="https://twitter.com/TwitterDev">
-Follow @TwitterDev</a>
+  href="https://twitter.com/cryptoartdigest">
+Follow @cryptoartdigest</a>
+For updates on recently released newsletters
+and on the results of most & much clicked.
