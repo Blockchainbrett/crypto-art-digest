@@ -9,4 +9,5 @@ tags:
   - art
 ---
 
+Ill be covering hot takes and updates in the crypto art space across superrare, async.art and opensea. (Ill probably venture into knownorigin and makersplace soon, send link if you see exciting updates there!) I hope you like the structure of this first newsletter, Im super open to feedback on a cooler section or if a secion isnt great. It will be a few sections with one liners and links to check it out + a content opinion piece (Ill be writing them but if you'd like to write a piece for the newsletter please reach out).
 
