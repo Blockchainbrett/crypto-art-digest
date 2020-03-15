@@ -7,9 +7,12 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-![](/img/CryptoArtDigestLogo.png)
+![CryptoArtDigestLogo](/img/CryptoArtDigestLogo.png)
 
 Bringing you weekly highlights on the exploding crypto art space!
 
 * [Newsletters](/newsletters) to see all the weekly editions
 * [About](/about) the publisher
+
+
+![CryptoArtDigestLogo](/img/CryptoArtDigestLogo.png)
