@@ -1,6 +1,7 @@
 ---
-title: March 15th 2020 #1
-summary: First ever Crypto Art Digest newsletter.. High hopes, Low expectations
+title: March 15th 2020 (1 of 1)
+summary: This newsletter edition is 1 of 1 so 
+far, but Im going to mint more
 date: 2020-03-15
 tags:
   - weekly
