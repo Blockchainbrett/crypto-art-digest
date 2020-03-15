@@ -23,6 +23,7 @@ this is the first edition, it will include more than the past week.
 
 Ranked below are the greatest bidding wars and highest sold Crypto Art!
 (See article at the bottom for details on each sale)
+
 * [Celestial Cyber Dimension - Guilherme Twardowski](https://www.nytimes.com/2018/05/18/style/cryptokitty-auction.html) the "cryptokitty" sold for **$140k USD (Ethereal)** - Event
 * [Homer Pepe](https://mashable.com/2018/01/25/homer-pepe-rare-digital-art-auction/) sold for **$40k USD (Rare AF)** - Event
 * [First Supper - 13 Artist's Master](https://twitter.com/AsyncArt/status/1233482051548065793) sold for **$25k USD (Async.art)** - Online 
@@ -36,15 +37,39 @@ Ranked below are the greatest bidding wars and highest sold Crypto Art!
 *The crypto artists we know and love.. the people that make it
 all possible.*
 
-* Xcopy
-* Hackatao
-* Coldie
-* Josie
-* JOY
+This list is who I'd consider to be the greatest crypto artists in 
+the space so far. This is a subjective view and disclosure I do own
+at least one piece of each artists (as well as many others). The next 
+edition it will be specific to art created that week.
+
+* [Coldie](https://twitter.com/Coldie) - 3D Style and crypto themed art. A staple in the crypto
+art industry with more than 80 pieces created dating back to having 
+one of the first pieces posted on Superrare. His Decentral Eyes series
+includes key influencers to the decntralization movment. #GIFs #3D #MP4
+* Xcopy - Glitchy and staticy current event driven art. Dates back to 
+being one of the first artists to post on Superrare. #GIFs #MP4
+* Hackatao - Extremely detailed stencils within characters and
+surroundings representing themes of human emotion such as love, 
+fear, and sex. They were also one of the first artists to post on 
+Superrare. #GIFs #MP4
+* Josie - Crypto themed art bringing out stories and decetralizations
+impact on people's stories. She has series' of physical paintings +
+prints + NFTs ranging from themes of togetherness to promote decentralization
+to NFT scavengar hunts. She creates her own NFTs and lists them directly
+on OpenSea and more recently participated in Async.art First Supper.
+*Coldie, Xcopy, Hackatao, and Josie were 4 of the 13 artists that 
+participated in the "First supper" on Async.art.*
+* JOY - John Orion Young makes his 3D rendered NFTs while he is in VR.
+Just check out his instagram to see how cool the process of him making 
+art really is, and where you can also see the JOY World he has created. 
+He has dozens of characters with backstorys that are all made using VR 
+tools and are all within the JOY World, which is a world he has created 
+in VR for all the characters he's made. 
 
 
 ### MVC (Most Valuable Collectors)
 *These collectors (some say "whales" or "squids") are the MVPs.*
+On the next newsletter it will be specific to art from that week.
 
 * VK crypto
 * sebcl 
