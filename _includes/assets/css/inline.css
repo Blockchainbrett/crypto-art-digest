@@ -52,7 +52,7 @@ footer {
 }
 
 main {
-	padding-bottom: 1em;
+	padding-bottom: .25em;
 }
 
 main :first-child,
