@@ -7,4 +7,3 @@ eleventyNavigation:
   key: Newsletters
   order: 1
 ---
-Check out the weekly Digests:
