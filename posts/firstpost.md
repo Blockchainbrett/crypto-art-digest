@@ -17,10 +17,10 @@ Hey Crypo Art enthusiasts! Hope everyone is safe and healthy. Welcome to the Cry
 ### Bidding Wars 
 *The historical crypto art bidding wars!*
 
-Ranked below are the greatest bidding wars and highest sold Crypto Art!
+Ranked below are the greatest bidding wars and highest sold Crypto Art of all time!
 (See article at the bottom for details on each sale)
 
-* [Celestial Cyber Dimension - Guilherme Twardowski](https://www.nytimes.com/2018/05/18/style/cryptokitty-auction.html) the "cryptokitty" sold for **$140k USD (Ethereal)** - Event
+* [Celestial Cyber Dimension - Guilherme Twardowski](https://www.nytimes.com/2018/05/18/style/cryptokitty-auction.html){:target="_blank"} the "cryptokitty" sold for **$140k USD (Ethereal)** - Event
 * [Homer Pepe](https://mashable.com/2018/01/25/homer-pepe-rare-digital-art-auction/) sold for **$40k USD (Rare AF)** - Event
 * [First Supper - 13 Artist's Master](https://twitter.com/AsyncArt/status/1233482051548065793) sold for **$25k USD (Async.art)** - Online 
 * [First Supper; "Decentral Eyes" Layer - Coldie](https://twitter.com/web3brett/status/1234240533045956613) sold for **$17.5K USD (Async.art)** - Online
