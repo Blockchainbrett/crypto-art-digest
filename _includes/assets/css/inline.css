@@ -3,6 +3,8 @@
 	--white: white;
 	--blue: blue;
 	--indigo: #4B0082;
+	--mediumseagreen: #3CB371;
+	--limegreen: rgb(126, 255, 126);
 }
 
 *, *:before, *:after {
@@ -35,7 +37,7 @@ code {
 
 a[href],
 a[href]:visited {
-	color: var(--indigo);
+	color: var(--mediumseagreen);
 }
 
 a[href]:not(:hover) {
