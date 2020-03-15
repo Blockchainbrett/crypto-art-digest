@@ -16,6 +16,6 @@ all the weekly editions
 
 <a class="twitter-follow-button"
   href="https://twitter.com/cryptoartdigest">
-Follow @cryptoartdigest</a>
+Follow on Twitter: @cryptoartdigest</a>
 For updates on recently released newsletters
 and on the results of most & much clicked.
