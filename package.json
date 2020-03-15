@@ -12,15 +12,15 @@
     "url": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate"
   },
   "author": {
-    "name": "Dan Urbanowicz",
-    "email": "dan.urbanowicz@gmail.com",
-    "url": "https://www.danurbanowicz.com/"
+    "name": "Brett Shear",
+    "email": "brett@cryptoartdigest.com",
+    "url": "https://cryptoartdigest.com/"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate/issues"
+    "url": "https://github.com/blockchainbrett/crypto-art-digest"
   },
-  "homepage": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate",
+  "homepage":     "url": "https://github.com/blockchainbrett/crypto-art-digest",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0-beta.1",
     "luxon": "^1.21.3",

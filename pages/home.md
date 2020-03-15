@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-![](/img/CryptoArtDigestLogo.png)
+![](static/img/CryptoArtDigestLogo.png)
 
 Bringing you weekly highlights on the exploding crypto art space!
 
