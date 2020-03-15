@@ -65,7 +65,7 @@ participated in the "First supper" on Async.art.*
 
 You might be familiar with the art auctions like the famous banksy auctioned at Sotheby’s that had known art collectors and brokers in one room, but have you heard about the CryptoArt bidding wars? These bidding wars are open to anyone, happen online, and with all sorts of auction formats. “Whales” or big spenders have elevated the value of the crypto art industry taking crypto artist from last year selling a 1 of 1 art piece for $100, to now selling new pieces for $10,000+ and some being listed on secondary markets for $50k - $150 k. Crypto art platforms take ditial art and tokenize them onto the ethereum blockchain which can then be traded over any platform. Even after the first sale, the royalties for the artist and the platform are baked into the token for secondary sales.
 
-##### History of legendary bidding wars
+### History of legendary bidding wars
 * [Celestial Cyber Dimension - Guilherme Twardowski](https://www.nytimes.com/2018/05/18/style/cryptokitty-auction.html) the "cryptokitty" sold for **$140k USD (Ethereal)** - Event
 A Cryptokitty sold for ($140,000)[https://www.nytimes.com/2018/05/18/style/cryptokitty-auction.html] on May, 2018 while in person was won with an online bid. Mike Novogratz, founder of hedge fund Galaxy Digital, participated and was quoted saying, “In 10 years, I think it’s going to be worth millions.”
 * [Homer Pepe](https://mashable.com/2018/01/25/homer-pepe-rare-digital-art-auction/) sold for **$40k USD (Rare AF)** - Event
@@ -83,12 +83,12 @@ EthGirl had a legendary bidding war for SuperRare that ended in the largest sale
 * [DystoPunk 3D - Coldie x Xcopy](https://superrare.co/artwork-v2/dystopunk-3d-7168) sold for **$7k USD (Superare)** - Online
 DystoPunk 3D is a collaboration between Coldie and Xcopy, arguably the top 2 crypt artists today and was listed on Coldies SuperRare account. A very well know collector, [Basileus](https://twitter.com/basileus_eth won this in a hectic bidding war for $7k USD, or 41.2 ETH at the time.
 
-##### Crypto Art Platforms
+### Crypto Art Platforms
 
 All of this incredible momentum in the crypto art space has been explosive. It could not have been done without our favorite software platforms that provide the crypto art experiences. Lets talk about some of the most popular ones and how they work.
 All made possible by blockchain and blockchain based “crypto” art platforms
 
-###### SuperRare.co
+#### SuperRare.co
 SuperRare is an easy to use and social driven crypto art creator/collector platform. 
 * Art type: Only 1 of 1 art pieces
 * Artist access- Each artist is individually vetted and assured to the collectors that they are not copyright infringements
@@ -98,7 +98,7 @@ SuperRare is an easy to use and social driven crypto art creator/collector platf
 * Notifications - notified when you have been outbid and when you've place bids 
 I think SuperRare is the first crypto art platforman and is by far the most feature full and volume dominant in the crypto art marketplace today. You can expect to see your favorite artist on there.
 
-###### Async.art
+#### Async.art
 Async.art is an innovative and collabortive crypto creator/collector platform.
 * Art Type: Concept of Master pieces and Layer pieces
   * Master - A Master is like the skeleton of a painting that holds the glue of all the pieces within it as well as the ownership of that painting as a whole
@@ -108,9 +108,9 @@ Async.art is an innovative and collabortive crypto creator/collector platform.
 * Fees and royalties - Async charges a 15% roylaty applied on all sales and resales of that crypto art piece (happens automatically), in which 5% goes to the artist, so 10% to async.art. 
 In the first week of launch for Async art they put up over $100k USD in volume which is an incredible amount. Over 2 years Superare has done nearly $600k+ USD in volume with most of the volume being skewed towards the last 6 months to a year. 
 
-###### OpenSea.io
+#### OpenSea.io
 
-###### KnownOrigin.io 
+#### KnownOrigin.io 
 
 
 
