@@ -9,8 +9,8 @@ tags:
   - art
 ---
 
-# Crypto Art Digest - Edition 1 of 1
-# Sunday, March 15th 2020
+## Crypto Art Digest - Edition 1 of 1
+ *Sunday, March 15th 2020*
 
 Hey Crypo Art enthusiasts! Hope everyone is safe and healthy.
 Admist the Corona crypto crash, Welcome to the Crypto Art Digest 
@@ -22,13 +22,13 @@ first newsletter I'm going to go a bit beyond just this past week.
 ### Bidding Wars 
 *The historical crypto art bidding wars!*
 
-* Crypto kitties
-* Homer Pepe
-* Async Master piece
-* Colie's Layer
-* Xcopy
-* Superrare ETHgirl
-* Robness
+* Crypto kitties (Ethereal)
+* Homer Pepe (Rare AF)
+* First Supper (Async.art)
+* Colie's Layer (Async.art)
+* Xcopy (Async.art)
+* ETHgirl (Superrare)
+* Robness (Superare)
 
 ### Artsy Artists
 *The crypto artists we know and love.. the people that make it
@@ -90,9 +90,11 @@ platforms make the piece of art a token on the blockchain that can be sold over 
 All made possible by blockchain and blockchain based “crypto” art platforms
 What is superrare?
 What is async art 
-Master pieces
-Layer Pieces
-Opensea - shows them all.. allows "unsigned" artists
+- Master pieces
+- Layer Pieces
+Opensea 
+- shows them all.. 
+- allows "unsigned" artists
 
 
 
