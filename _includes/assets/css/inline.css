@@ -2,6 +2,7 @@
 	--turkey: #FFF0EB;
 	--white: white;
 	--blue: blue;
+	--indigo: #4B0082;
 }
 
 *, *:before, *:after {
@@ -34,7 +35,7 @@ code {
 
 a[href],
 a[href]:visited {
-	color: var(--green);
+	color: var(--indigo);
 }
 
 a[href]:not(:hover) {

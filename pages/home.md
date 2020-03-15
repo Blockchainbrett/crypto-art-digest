@@ -7,7 +7,9 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-Bringing you weekly highlights on the exploding crypto art space!
+Bringing you weekly highlights on the 
+exploding crypto art space!
 
-* [Newsletters](/newsletters) to see all the weekly editions
+* [Newsletters](/newsletters) to see 
+all the weekly editions
 * [About](/about) the publisher
