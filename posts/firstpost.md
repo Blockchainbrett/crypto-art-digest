@@ -71,12 +71,26 @@ in VR for all the characters he's made.
 *These collectors (some say "whales" or "squids") are the MVPs.*
 On the next newsletter it will be specific to art from that week.
 
-* VK crypto
-* sebcl 
-* moderats
-* Whaleshark
-* Jim
-* Yours truly (sorry had too!)
+* VK crypto - The legendary first crypto art whale that made the first
+large purchases right at the beginning. He's know for his tweet to turn 
+down the largest bidding war at that time on one of his pieces and Hackatao
+made an art piece just for that moment. Hasnt been bidding for a while. 
+Anonymous.
+* sebcl - Created the Momus Collection which is the largest collection of 
+crypto art pieces to date. Was from the very early days alongside VK crypto.
+Also hasnt been bidding as much recently. I think is Anonymous.
+* Moderats - Has been and still is placing some of the largest bids on the 
+platform. Most consistent whale to date.
+* Whaleshark - More recently has become the most known crypto art whale.
+Spreading the love to many artists and no stranger to any of them, with 
+clearly doing research on the classics to the newests releases. You can
+depend on Whaleshark to have more than one peice of any serious crypto artist.
+* Token Angels - A whale nonetheless, he has bought up several of all the
+high profile artists. You'll see him everywhere. Notably holds the 6th
+largest crypto art purchase of all time... the Banksta Xcopy mentioned above.
+* Blockchainbrett - Yours truly. Long term enthusiats and notably holds the
+4rd largest crypto art purchase of all time...Coldie's Layer in the
+"First Supper" Master.
 
 ### Let's get ~~physical~~ digital
 *Traditional physical artists going digital. Missionaries, please
