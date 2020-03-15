@@ -12,11 +12,7 @@ tags:
 ## Crypto Art Digest - Edition 1 of 1
  *Sunday, March 15th 2020*
 
-Hey Crypo Art enthusiasts! Hope everyone is safe and healthy.
-Welcome to the Crypto Art Digest covering hot takes and updates
-in the crypto art space each week. Coverage includes superrare, 
-async.art, opensea, etc.. all the crypto art platforms. Since 
-this is the first edition, it will include more than the past week.
+Hey Crypo Art enthusiasts! Hope everyone is safe and healthy. Welcome to the Crypto Art Digest covering hot takes and updates in the crypto art space each week. Coverage includes superrare, async.art, opensea, etc.. all the crypto art platforms. Since this is the first edition, it will include more than the past week.
 
 ### Bidding Wars 
 *The historical crypto art bidding wars!*
@@ -34,61 +30,28 @@ Ranked below are the greatest bidding wars and highest sold Crypto Art!
 * [DystoPunk 3D - Coldie x Xcopy]() sold for **$7k USD (Superare)** - Online
 
 ### Artsy Artists
-*The crypto artists we know and love.. the people that make it
-all possible.*
+*The crypto artists we know and love.. the people that make it all possible.*
 
-This list is who I'd consider to be the greatest crypto artists in 
-the space so far. This is a subjective view and disclosure I do own
-at least one piece of each artists (as well as many others). The next 
-edition it will be specific to art created that week.
+This list is who I'd consider to be the greatest crypto artists in the space so far. This is a subjective view and disclosure I do own at least one piece of each artists (as well as many others). The next edition will be specific to art created that week.
 
-* [Coldie](https://twitter.com/Coldie) - 3D Style and crypto themed art. A staple in the crypto
-art industry with more than 80 pieces created dating back to having 
-one of the first pieces posted on Superrare. His Decentral Eyes series
-includes key influencers to the decntralization movment. #GIFs #3D #MP4
-* Xcopy - Glitchy and staticy current event driven art. Dates back to 
-being one of the first artists to post on Superrare. #GIFs #MP4
-* Hackatao - Extremely detailed stencils within characters and
-surroundings representing themes of human emotion such as love, 
-fear, and sex. They were also one of the first artists to post on 
-Superrare. #GIFs #MP4
+* [Coldie](https://twitter.com/Coldie) - 3D Style and crypto themed art. A staple in the crypto art industry with more than 80 pieces created dating back to having one of the first pieces posted on Superrare. His Decentral Eyes series includes key influencers to the decntralization movment. #GIFs #3D #MP4
+* Xcopy - Glitchy and staticy current event driven art. Dates back to being one of the first artists to post on Superrare. #GIFs #MP4
+* Hackatao - Extremely detailed stencils within characters and surroundings representing themes of human emotion such as love, fear, and sex. They were also one of the first artists to post on Superrare. #GIFs #MP4
 * Josie - Crypto themed art bringing out stories and decetralizations impact on people's stories. She has series' of physical paintings + prints + NFTs ranging from themes of togetherness to promote decentralization to NFT scavengar hunts. She creates her own NFTs and lists them directly on OpenSea and more recently participated in Async.art First Supper.
 *Coldie, Xcopy, Hackatao, and Josie were 4 of the 13 artists that 
 participated in the "First supper" on Async.art.*
-* JOY - John Orion Young makes his 3D rendered NFTs while he is in VR.
-Just check out his instagram to see how cool the process of him making 
-art really is, and where you can also see the JOY World he has created. 
-He has dozens of characters with backstorys that are all made using VR 
-tools and are all within the JOY World, which is a world he has created 
-in VR for all the characters he's made. 
+* JOY - John Orion Young makes his 3D rendered NFTs while he is in VR. Just check out his instagram to see how cool the process of him making art really is, and where you can also see the JOY World he has created. He has dozens of characters with backstorys that are all made using VR tools and are all within the JOY World, which is a world he has created in VR for all the characters he's made. 
 
 
 ### MVC (Most Valuable Collectors)
-*These collectors (some say "whales" or "squids") are the MVPs.*
-On the next newsletter it will be specific to art from that week.
+*These collectors (some say "whales" or "squids") are the MVPs.* On the next newsletter it will be specific to art from that week.
 
-* VK crypto - The legendary first crypto art whale that made the first
-large purchases right at the beginning. He's know for his tweet to turn 
-down the largest bidding war at that time on one of his pieces and Hackatao
-made an art piece just for that moment. Hasnt been bidding for a while. 
-Anonymous.
-* sebcl - Created the Momus Collection which is the largest collection of 
-crypto art pieces to date, over 400 pieces of art. Was from the very early 
-days alongside VK crypto. Also hasnt been bidding as much recently. I 
-think he is Anonymous.
-* Moderats - Has been and still is placing some of the largest bids on the 
-platform. Most consistent whale to date. Anonymous.
-* Whaleshark - More recently has become the most known crypto art whale.
-Spreading the love to many artists and no stranger to any of them, with 
-clearly doing research on the classics to the newests releases. You can
-depend on Whaleshark to have more than one peice of any serious crypto artist.
-He is soon to dethrone the Momus Collection nearing 400 pieces of art.
-* Token Angels - A whale nonetheless, he has bought up several of all the
-high profile artists. You'll see him everywhere. Notably holds the 6th
-largest crypto art purchase of all time... the Banksta Xcopy mentioned above.
-* Blockchainbrett - Yours truly. Long term enthusiats and notably holds the
-4rd largest crypto art purchase of all time...Coldie's Layer in the
-"First Supper" Master.
+* VK crypto - The legendary first crypto art whale that made the first large purchases right at the beginning. He's know for his tweet to turn down the largest bidding war at that time on one of his pieces and Hackatao made an art piece just for that moment. Hasnt been bidding for a while. Anonymous.
+* sebcl - Created the Momus Collection which is the largest collection of crypto art pieces to date, over 400 pieces of art. Was from the very early days alongside VK crypto. Also hasnt been bidding as much recently. I think he is Anonymous.
+* Moderats - Has been and still is placing some of the largest bids on the platform. Most consistent whale to date. Anonymous.
+* Whaleshark - More recently has become the most known crypto art whale. Spreading the love to many artists and no stranger to any of them, with clearly doing research on the classics to the newests releases. You can depend on Whaleshark to have more than one peice of any serious crypto artist. I'd also bet he's the first to open a crypto art museum, probably in cryptovoxel. He is soon to dethrone the Momus Collection nearing 400 pieces of art.
+* Token Angels - A whale nonetheless, he has bought up several of all the high profile artists. You'll see him everywhere. Notably holds the 6th largest crypto art purchase of all time... the Banksta Xcopy mentioned above.
+* Blockchainbrett - Yours truly. Long term enthusiats, top trending collector, and notably holds the4rd largest crypto art purchase of all time...Coldie's Layer in the "First Supper" Master.
 
 ### Let's get ~~physical~~ digital
 *Traditional physical artists going digital. Missionaries, please
