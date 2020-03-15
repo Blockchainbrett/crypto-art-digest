@@ -52,11 +52,7 @@ being one of the first artists to post on Superrare. #GIFs #MP4
 surroundings representing themes of human emotion such as love, 
 fear, and sex. They were also one of the first artists to post on 
 Superrare. #GIFs #MP4
-* Josie - Crypto themed art bringing out stories and decetralizations
-impact on people's stories. She has series' of physical paintings +
-prints + NFTs ranging from themes of togetherness to promote decentralization
-to NFT scavengar hunts. She creates her own NFTs and lists them directly
-on OpenSea and more recently participated in Async.art First Supper.
+* Josie - Crypto themed art bringing out stories and decetralizations impact on people's stories. She has series' of physical paintings + prints + NFTs ranging from themes of togetherness to promote decentralization to NFT scavengar hunts. She creates her own NFTs and lists them directly on OpenSea and more recently participated in Async.art First Supper.
 *Coldie, Xcopy, Hackatao, and Josie were 4 of the 13 artists that 
 participated in the "First supper" on Async.art.*
 * JOY - John Orion Young makes his 3D rendered NFTs while he is in VR.
@@ -77,14 +73,16 @@ down the largest bidding war at that time on one of his pieces and Hackatao
 made an art piece just for that moment. Hasnt been bidding for a while. 
 Anonymous.
 * sebcl - Created the Momus Collection which is the largest collection of 
-crypto art pieces to date. Was from the very early days alongside VK crypto.
-Also hasnt been bidding as much recently. I think is Anonymous.
+crypto art pieces to date, over 400 pieces of art. Was from the very early 
+days alongside VK crypto. Also hasnt been bidding as much recently. I 
+think he is Anonymous.
 * Moderats - Has been and still is placing some of the largest bids on the 
-platform. Most consistent whale to date.
+platform. Most consistent whale to date. Anonymous.
 * Whaleshark - More recently has become the most known crypto art whale.
 Spreading the love to many artists and no stranger to any of them, with 
 clearly doing research on the classics to the newests releases. You can
 depend on Whaleshark to have more than one peice of any serious crypto artist.
+He is soon to dethrone the Momus Collection nearing 400 pieces of art.
 * Token Angels - A whale nonetheless, he has bought up several of all the
 high profile artists. You'll see him everywhere. Notably holds the 6th
 largest crypto art purchase of all time... the Banksta Xcopy mentioned above.
