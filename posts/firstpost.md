@@ -15,7 +15,7 @@ tags:
 Hey Crypo Art enthusiasts! Hope everyone is safe and healthy.
 Welcome to the Crypto Art Digest covering hot takes and updates
 in the crypto art space each week. Coverage includes superrare, 
-async.art and opensea, etc.. all the crypto art platforms. Since 
+async.art, opensea, etc.. all the crypto art platforms. Since 
 this is the first edition, it will include more than the past week.
 
 ### Bidding Wars 
@@ -23,14 +23,14 @@ this is the first edition, it will include more than the past week.
 
 Ranked below are the greatest bidding wars and highest sold Crypto Art!
 (See article at the bottom for details on each sale)
-* [Celestial Cyber Dimension - Guilherme Twardowski](https://www.nytimes.com/2018/05/18/style/cryptokitty-auction.html) the "cryptokitty" sold for $140k USD (Ethereal) - Event
-* [Homer Pepe](https://mashable.com/2018/01/25/homer-pepe-rare-digital-art-auction/) sold for $40k USD (Rare AF) - Event
-* [First Supper - 13 Artist's Master](https://twitter.com/AsyncArt/status/1233482051548065793) sold for $25k USD (Async.art) - Online 
-* [First Supper - Coldie's Layer](https://twitter.com/web3brett/status/1234240533045956613) sold for $17.5K USD (Async.art) - Online
-* [CryptoPunk 7804](https://www.larvalabs.com/cryptopunks/details/7804) sold for $15k USD (CryptoPunks)- Online 
-* [Banksta - Xcopy's Master](https://async.art/art/master/0x6c424c25e9f1fff9642cb5b7750b0db7312c29ad-28) sold for $15k USD (Async.art) - Online
-* [EthGirl- Trevor Jones](https://news.bitstarz.com/ethgirl-nft-artwork-sells-for-record-72-1-eth) sold for $10k USD (Superrare) - Online
-* [DystoPunk 3D - Coldie x Xcopy]() sold for $7k (Superare)
+* [Celestial Cyber Dimension - Guilherme Twardowski](https://www.nytimes.com/2018/05/18/style/cryptokitty-auction.html) the "cryptokitty" sold for **$140k USD (Ethereal)** - Event
+* [Homer Pepe](https://mashable.com/2018/01/25/homer-pepe-rare-digital-art-auction/) sold for **$40k USD (Rare AF)** - Event
+* [First Supper - 13 Artist's Master](https://twitter.com/AsyncArt/status/1233482051548065793) sold for **$25k USD (Async.art)** - Online 
+* [First Supper - Coldie's Layer](https://twitter.com/web3brett/status/1234240533045956613) sold for **$17.5K USD (Async.art)** - Online
+* [CryptoPunk 7804](https://www.larvalabs.com/cryptopunks/details/7804) sold for **$15k USD (CryptoPunks)** - Online 
+* [Banksta - Xcopy's Master](https://async.art/art/master/0x6c424c25e9f1fff9642cb5b7750b0db7312c29ad-28) sold for **$15k USD (Async.art)** - Online
+* [EthGirl- Trevor Jones](https://news.bitstarz.com/ethgirl-nft-artwork-sells-for-record-72-1-eth) sold for **$10k USD (Superrare)** - Online
+* [DystoPunk 3D - Coldie x Xcopy]() sold for **$7k USD (Superare)** - Online
 
 ### Artsy Artists
 *The crypto artists we know and love.. the people that make it
