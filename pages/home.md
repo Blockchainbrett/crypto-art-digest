@@ -13,3 +13,7 @@ exploding crypto art space!
 * [Newsletters](/newsletters) to see 
 all the weekly editions
 * [About](/about) the publisher
+
+<a class="twitter-follow-button"
+  href="https://twitter.com/TwitterDev">
+Follow @TwitterDev</a>
