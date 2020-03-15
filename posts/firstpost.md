@@ -9,26 +9,29 @@ tags:
   - art
 ---
 
+# Crypto Art Digest - Sunday, March 15th 2020 - Edition 1 of 1
+
 Hey Crypo Art enthusiasts! Hope everyone is safe and healthy.
-Welcome to the Crypto Art Digest where Ill be covering hot takes 
-and updates in the crypto art space each week across superrare, 
-async.art and opensea, etc.. all the crypto art platforms I can 
-entertain. Since this is the first newsletter I'm going to go a 
-bit beyond just this past week.
+Admist the Corona crypto crash, Welcome to the Crypto Art Digest 
+where Ill be covering hot takes and updates in the crypto art 
+space each week across superrare, async.art and opensea, etc.. 
+all the crypto art platforms I can entertain. Since this is the 
+first newsletter I'm going to go a bit beyond just this past week.
 
 ### Bidding Wars 
-*The historical crypto art bidding wars*
+*The historical crypto art bidding wars!*
 
 * Crypto kitties
+* Homer Pepe
 * Async Master piece
-* Colie Layer
-* WS vs shayne
-* me vs WS
-* Joy one
+* Colie's Layer
+* Xcopy
+* Superrare ETHgirl
+* Robness
 
-### Hot Artists
+### Artsy Artists
 *The crypto artists we know and love.. the people that make it
-all possible*
+all possible.*
 
 * Xcopy
 * Hackatao
@@ -37,22 +40,31 @@ all possible*
 * JOY
 
 
-### Trending Collectors 
+### MVC (Most Valuable Collectors)
+*These collectors (some say "whales" or "squids") are the MVPs.*
+
+* VK crypto
+* sebcl 
+* moderats
+* Whaleshark
+* Jim
+* Yours truly (sorry had too!)
 
 ### Let's get ~~physical~~ digital
-*Traditional physical artists going digital*
+*Traditional physical artists going digital. Missionaries, please
+stand up.*
 
 * Micah Johnson
 * Josie
 * Jimmy fallon guy you bought from
 
 ### Shot out of the Week
+*Highlighting the Crypto Art MVPs week after week*
 
 Jonathan Perkins
 
-# Opinion Piece
 
-### Crypto Art Bidding Wars Will Change Art History 
+## Crypto Art Bidding Wars Will Change Art History 
 
 You might be familiar with the art auctions like the famous banksy
 auctioned at Sotheby’s that had known art collectors and brokers in
@@ -86,4 +98,9 @@ Opensea - shows them all.. allows "unsigned" artists
 
 Yours truly,
 [Blockchainbrett](https://twitter.com/web3brett)
-Crypto
+
+<a class="twitter-follow-button"
+  href="https://twitter.com/cryptoartdigest">
+Follow on Twitter: @cryptoartdigest</a>
+For updates on recently released newsletters
+and on the results of most & much clicked.
