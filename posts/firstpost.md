@@ -1,6 +1,6 @@
 ---
 title: March 15th 2020 (1 of 1)
-summary: This newsletter edition is 1 of 1 so far
+summary: 1st edition of Crypto Art Digest!
 date: 2020-03-15
 tags:
   - weekly
@@ -13,22 +13,22 @@ tags:
  *Sunday, March 15th 2020*
 
 Hey Crypo Art enthusiasts! Hope everyone is safe and healthy.
-Admist the Corona crypto crash, Welcome to the Crypto Art Digest 
-where Ill be covering hot takes and updates in the crypto art 
-space each week across superrare, async.art and opensea, etc.. 
-all the crypto art platforms I can entertain. Since this is the 
-first newsletter I'm going to go a bit beyond just this past week.
+Welcome to the Crypto Art Digest covering hot takes and updates
+in the crypto art space each week. Coverage includes superrare, 
+async.art and opensea, etc.. all the crypto art platforms. Since 
+this is the first edition, it will include more than the past week.
 
 ### Bidding Wars 
 *The historical crypto art bidding wars!*
 
+Below is ranked the top bidding wars of all time!
 * Crypto kitties (Ethereal)
 * Homer Pepe (Rare AF)
 * First Supper (Async.art)
-* Colie's Layer (Async.art)
-* Xcopy (Async.art)
+* Colie's First Supper Layer (Async.art)
+* Xcopy's  (Async.art)
 * ETHgirl (Superrare)
-* Robness (Superare)
+* Coldie's Andreas Antonopoulis (Superare)
 
 ### Artsy Artists
 *The crypto artists we know and love.. the people that make it
