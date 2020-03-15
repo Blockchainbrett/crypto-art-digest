@@ -14,11 +14,11 @@
   "author": {
     "name": "Brett Shear",
     "email": "brett@cryptoartdigest.com",
-    "url": "https://cryptoartdigest.com/"
+    "url": "https://cryptoartdigest.com",
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/blockchainbrett/crypto-art-digest"
+    "url": "https://github.com/blockchainbrett/crypto-art-digest",
   },
   "homepage":     "url": "https://github.com/blockchainbrett/crypto-art-digest",
   "devDependencies": {
