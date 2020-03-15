@@ -109,21 +109,28 @@ Async.art is an innovative and collabortive crypto creator/collector platform.
 In the first week of launch for Async art they put up over $100k USD in volume which is an incredible amount. Over 2 years Superare has done nearly $600k+ USD in volume with most of the volume being skewed towards the last 6 months to a year. 
 
 #### OpenSea.io
+OpenSea is a NFT (NonFungibleToken) marketplace to buy and sell any NFT across any platform. It has given free range for artists that are not assocaited with any crypto art platform in particular to post their work with full control of how their art's tokens work and what fees/royalties are baked in for themselves.
+* Art Type - Anything you can put into an NFT
+* Artist access- Anyone can mint crypto art that would display on OpenSea
+* Fees and royalties - the roylaty structure is completely up to the artist when they create the crypto art token. OpenSea will take a 2.5% fee regardless of yours.
+* Other features - OpenSea comes along with a robust notification system, activity feed, leaderboards, etc. However, it is worth noting that it resembles the entire NFT indsutry, not just cryptoart therefore you might go a bit unnoticed in the activity feeds and leaderboards.
+OpenSea has opened up major doors and freedom for crypto artists to completely control their brand, fee's and distribution of their work. The bidding features are also extremely robust.
 
 #### KnownOrigin.io 
+KnownOrigin is an easy to use crypto art creator/collector platform that has introduced the concept of editions. 
+* Art type: Mostly known for its editions. also support 1 of 1 art pieces
+* Artist access- Each artist is individually vetted and assured to the collectors that they are not copyright infringements
+* Fees and royalties - charges a 15% roylaty applied on all sales and resales of that crypto art piece (happens automatically), in which 5% goes to the artist, so 10% to KnownOrigin. 
+* Activity feed - check all the recent activity in a feed to see recently created, bid on, and accepted bids
 
 
 
-Opensea 
-- shows them all.. 
-- allows "unsigned" artists
-Known origin 
 
-
-
+Look how far we've come. Its just the beggining of the Crypto ART Mania! Please reach out if you'd like to contribute any content pieces to the newsletter and if you come across any interesting activity in the space to include in the newsletter.
 
 Yours truly,
 [Blockchainbrett](https://twitter.com/web3brett)
+You can DM me on twitter or [telegram](http://telegram.me/blockchainbrett) too
 
 <a class="twitter-follow-button"
   href="https://twitter.com/cryptoartdigest">
