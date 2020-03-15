@@ -9,7 +9,8 @@ tags:
   - art
 ---
 
-# Crypto Art Digest - Sunday, March 15th 2020 - Edition 1 of 1
+# Crypto Art Digest - Edition 1 of 1
+# Sunday, March 15th 2020
 
 Hey Crypo Art enthusiasts! Hope everyone is safe and healthy.
 Admist the Corona crypto crash, Welcome to the Crypto Art Digest 
