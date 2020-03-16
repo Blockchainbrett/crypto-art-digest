@@ -15,8 +15,7 @@ crypto art space!
 weekly editions
 * [About](/about) the publisher
 
-<a class="twitter-follow-button"
-  href="">
+
 Follow on Twitter:[@cryptoartdigest](https://twitter.com/cryptoartdigest)
 For updates on recently released newsletters
 and on the results of most & much clicked.
