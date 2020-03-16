@@ -8,15 +8,15 @@ eleventyNavigation:
   order: 0
 ---
 
-Bringing you weekly highlights on the 
-exploding crypto art space!
+Bringing you weekly highlights on the exploding 
+crypto art space!
 
-* [Newsletters](/newsletters) to see 
-all the weekly editions
+* [Newsletters](/newsletters) to see all the 
+weekly editions
 * [About](/about) the publisher
 
 <a class="twitter-follow-button"
   href="">
-Follow on Twitter: [@cryptoartdigest](https://twitter.com/cryptoartdigest)
+Follow on Twitter:[@cryptoartdigest](https://twitter.com/cryptoartdigest)
 For updates on recently released newsletters
 and on the results of most & much clicked.
