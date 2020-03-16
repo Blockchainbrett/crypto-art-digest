@@ -8,8 +8,6 @@ eleventyNavigation:
   order: 0
 ---
 
-![Logo](https://cryptoartdigest.com/static/media/CryptoArtDigestLogo.png)
-
 Bringing you weekly highlights on the 
 exploding crypto art space!
 
@@ -18,7 +16,7 @@ all the weekly editions
 * [About](/about) the publisher
 
 <a class="twitter-follow-button"
-  href="https://twitter.com/cryptoartdigest">
-Follow on Twitter: @cryptoartdigest</a>
+  href="">
+Follow on Twitter: [@cryptoartdigest](https://twitter.com/cryptoartdigest)
 For updates on recently released newsletters
 and on the results of most & much clicked.
