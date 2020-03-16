@@ -47,7 +47,7 @@ a[href]:not(:hover) {
 header,
 main,
 footer {
-	padding: 2em;
+	padding: .5em;
 	padding-bottom: 1 em;
 }
 
