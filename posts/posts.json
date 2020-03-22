@@ -1,8 +1,9 @@
 {
   "layout": "layouts/post.njk",
-  "permalink": "feed.xml",
+  "permalink": "posts/{{ title | slug }}/index.html",
   "tags": [
     "post"
   ]
 }
+
 
